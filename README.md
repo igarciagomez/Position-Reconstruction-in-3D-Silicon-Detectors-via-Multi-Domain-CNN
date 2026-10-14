@@ -5,7 +5,7 @@ This repository contains the complete deep learning pipeline for high-precision 
 ## 🚀 Key Achievements
 * **Full-Space Precision:** Median Euclidean error of **2.12 µm** over the full pixel cell.
 * **Symmetry-Aware AI:** Integrated Group Theory (C₂v Irreps) into the feature engineering process to resolve intra-pixel quadrant ambiguities with **91.1% accuracy**.
-* **Advanced Optimization:** Executed an 11-hour Bayesian Hyperparameter search (Optuna) and multi-seed statistical validation to ensure sub-micron stability.
+* **Advanced Optimization:** Executed an 11-hour Bayesian Hyperparameter search (Optuna) and multi-seed statistical validation to ensure statistical stability.
 
 ---
 
